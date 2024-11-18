@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ONLINE Ticketing</title>
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+    </head>
+    <body>
+        <h3>Selamat Datang</h3>
+        <h1>BUSKITA.com</h1>
+        <h2>Online Bus Ticketing</h2>
+        <ul>
+            <li><a href="index">Home</a></li>
+            <li><a href="Jurusan">Jurusan</a></li>
+            <li><a href="PO">PO Bus</a></li>
+            <li><a href="About">Tentang</a></li>
+        </ul>
+        <br/>
+        <div class="descfield">
+                <img src="image/Haryanto hd.jpeg" class="foto">
+                <br/>
+            <diV>
+                <table id="customers">
+                    <tr>
+                        <td>PO</td>
+                        <td>: PO Haryanto</td>
+                    </tr>
+                    <tr>
+                        <td>Julukan</td>
+                        <td>: California</td>
+                    </tr>
+                    <tr>
+                        <td>Body</td>
+                        <td>: Adi Putro, Jetbus 2 HD</td>
+                    </tr>
+                    <tr>
+                        <td>Chassis</td>
+                        <td>: Hino RN 285</td>
+                    </tr>
+                    <tr>
+                        <td>Trayek</td>
+                        <td>: Bandung-Kudus</td>
+                    </tr>
+                    <tr>
+                        <td>kelas</td>
+                        <td>: Executive Class</td>
+                    </tr>
+                </table>
+              
+            <button class="button" style="float: right;">Pesan</button>
+            <pre>
+
+
+            </pre>
+            </diV>
+        </div>
+       
+           

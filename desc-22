@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ONLINE Ticketing</title>
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+    </head>
+    <body>
+        <h3>Selamat Datang</h3>
+        <h1>BUSKITA.com</h1>
+        <h2>Online Bus Ticketing</h2>
+        <ul>
+            <li><a href="index">Home</a></li>
+            <li><a href="Jurusan">Jurusan</a></li>
+            <li><a href="PO">PO Bus</a></li>
+            <li><a href="About">Tentang</a></li>
+        </ul>
+        <br/>
+        <div class="descfield">
+                <img src="image/als sr2.png" class="foto">
+                <br/>
+            <diV>
+                <table id="customers">
+                    <tr>
+                        <td>PO</td>
+                        <td>: Antar Lintas Sumatera</td>
+                    </tr>
+                    <tr>
+                        <td>Julukan</td>
+                        <td>: -</td>
+                    </tr>
+                    <tr>
+                        <td>Body</td>
+                        <td>: Laksana, Legacy SR3 XHD</td>
+                    </tr>
+                    <tr>
+                        <td>Chassis</td>
+                        <td>: Mercy OH1526</td>
+                    </tr>
+                    <tr>
+                        <td>Trayek</td>
+                        <td>: Jakarta-Medan</td>
+                    </tr>
+                    <tr>
+                        <td>kelas</td>
+                        <td>: Super Executive seat 2-2</td>
+                    </tr>
+                </table>
+              
+            <button class="button" style="float: right;">Pesan</button>
+            <pre>
+
+
+            </pre>
+            </diV>
+        </div>
+       
+           

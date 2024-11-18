@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ONLINE Ticketing</title>
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+    </head>
+    <body>
+        <h3>Selamat Datang</h3>
+        <h1>BUSKITA.com</h1>
+        <h2>Online Bus Ticketing</h2>
+        <ul>
+            <li><a href="index">Home</a></li>
+            <li><a href="Jurusan">Jurusan</a></li>
+            <li><a href="PO">PO Bus</a></li>
+            <li class="active"><a href="About">Tentang</a></li>
+        </ul>
+        <br/>
+        <h3>Tentang BUSKITA</h3>
+        <p>Selamat datang di BUSKITA, platform pemesanan tiket bus online yang dirancang untuk memberikan kemudahan dan kenyamanan dalam merencanakan perjalanan Anda. Kami hadir dengan tujuan untuk menyederhanakan pengalaman perjalanan jarak jauh, memberikan kemudahan akses, dan memastikan perjalanan Anda berjalan lancar dari awal hingga akhir.</p>
+        <h3>Visi Kami</h3>
+        <p>VISI kami adalah menjadi solusi utama bagi para pelancong di Indonesia dalam hal pemesanan tiket bus yang cepat, efisien, dan terpercaya. Kami ingin menghubungkan Anda dengan berbagai pilihan layanan bus berkualitas di seluruh penjuru tanah air, memberikan fleksibilitas dalam memilih jadwal perjalanan yang sesuai dengan kebutuhan, dan memastikan kenyamanan sepanjang perjalanan.</p>
+        <h3>Misi Kami</h3>
+        <p>Untuk mewujudkan visi tersebut, kami berkomitmen untuk menyediakan platform yang mudah digunakan, dengan sistem pemesanan yang cepat dan aman. Kami bekerja sama dengan berbagai operator bus terkemuka untuk menawarkan berbagai pilihan rute, kelas, dan harga tiket yang bersaing. BUSKITA hadir dengan solusi praktis, di mana Anda dapat membeli tiket bus dengan hanya beberapa klik, kapan saja dan di mana saja.</p>
+        <h3>Kenapa Memilih BUSKITA?</h3>
+        <p></p>
+        <h3>Mendukung Perjalanan Anda</h3>
+        <p>Dengan BUSKITA, perjalanan jauh bukan lagi hal yang merepotkan. Kami berkomitmen untuk membantu Anda merencanakan perjalanan dengan lebih mudah, aman, dan menyenangkan. Nikmati pengalaman baru dalam memesan tiket bus secara online—lebih cepat, lebih efisien, dan lebih nyaman.</p>
+        <h3> Terima kasih telah memilih BUSKITA sebagai teman perjalanan Anda. Kami siap menemani setiap langkah perjalanan Anda!</h3>
+    </body>

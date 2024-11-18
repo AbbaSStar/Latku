@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ONLINE Ticketing</title>
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+    </head>
+    <body>
+        <h3>Selamat Datang</h3>
+        <h1>BUSKITA.com</h1>
+        <h2>Online Bus Ticketing</h2>
+        <ul>
+            <li class="active"><a href="index">Home</a></li>
+            <li><a href="Jurusan">Jurusan</a></li>
+            <li><a href="PO">PO Bus</a></li>
+            <li><a href="About">Tentang</a></li>
+        </ul>
+        <div class="grid-con">
+            <div class="grid-item">
+                <img src="image/Haryanto ijo.jpg">
+                <h1>PO Haryanto</h1><h2>Jakarta-Solo</h2><h2>Rp 300.000</h2>
+                <button class="button">Pesan</button>
+            </div>
+            <div class="grid-item">
+                <img src="image/als sr2.png">
+                <h1>ALS</h1><h2>Jakarta-Medan</h2><h2>Rp 500.000</h2>
+                <button class="button">Pesan</button>
+            </div>
+            <div class="grid-item">
+                <img src="image/Mtrans2.jpg">
+                <h1>Mtrans</h1><h2>Jakarta-Malang</h2><h2>Rp 400.000</h2>
+                <button class="button">Pesan</button>
+            </div>
+            <div class="grid-item">
+                <img src="image/Haryanto SHD.jpeg">
+                <h1>PO Haryanto</h1><h2>Jakarta-kudus</h2><h2>Rp 300.000</h2>
+                <button class="button">Pesan</button>
+            </div>
+            <div class="grid-item">
+                <img src="image/Stj cullen.jpg">
+                <h1>Sudiro Tungga Jaya</h1><h2>Jakarta-Yogya</h2><h2>Rp 250.000</h2>
+                <button class="button">Pesan</button>
+            </div>
+            <div class="grid-item">
+                <img src="image/Damri sleeper.jpg">
+                <h1>Damri</h1><h2>Jakarta-Malang</h2><h2>RP 500.000</h2>
+                <button class="button">Pesan</button>
+            </div>
+            <div class="grid-item">
+                <img src="image/Harjay.jpg">
+                <h1>Harapan Jaya</h1><h2>Jakarta-Blitar</h2><h2>Rp 350.000</h2>
+                <button class="button">Pesan</button>
+            </div>
+        </div>
+        <div class="footer">Selamat BerTamasya</div>
+    </body>
+</html>
